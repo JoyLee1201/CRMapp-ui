@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:555px;
+  width:375px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u132_img {
+#u219_img {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:795px;
 }
-#u132 {
+#u219 {
   position:absolute;
-  left:180px;
-  top:23px;
+  left:0px;
+  top:0px;
   width:375px;
   height:795px;
 }
-#u133 {
+#u220 {
   position:absolute;
   left:2px;
   top:390px;
