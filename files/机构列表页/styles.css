@@ -141,3 +141,30 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u304 {
+  position:absolute;
+  left:8px;
+  top:112px;
+  width:108px;
+  height:45px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u305 {
+  position:absolute;
+  left:126px;
+  top:112px;
+  width:108px;
+  height:45px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u306 {
+  position:absolute;
+  left:244px;
+  top:112px;
+  width:108px;
+  height:45px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

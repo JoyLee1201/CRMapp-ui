@@ -12,47 +12,56 @@
   position:absolute;
   z-index:0;
 }
-#u426_img {
+#u429_img {
   position:absolute;
   left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
-}
-#u426 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
-}
-#u427 {
-  position:absolute;
-  left:2px;
-  top:326px;
-  width:371px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u428_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
-}
-#u428 {
-  position:absolute;
-  left:852px;
   top:0px;
   width:375px;
   height:667px;
 }
 #u429 {
   position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u430 {
+  position:absolute;
   left:2px;
   top:326px;
   width:371px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u431_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u431 {
+  position:absolute;
+  left:852px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u432 {
+  position:absolute;
+  left:2px;
+  top:326px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u433 {
+  position:absolute;
+  left:85px;
+  top:607px;
+  width:206px;
+  height:42px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
