@@ -12,25 +12,70 @@
   position:absolute;
   z-index:0;
 }
-#u274_img {
+#u376_img {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:800px;
 }
-#u274 {
+#u376 {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:800px;
 }
-#u275 {
+#u377 {
   position:absolute;
   left:2px;
   top:392px;
   width:371px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u378 {
+  position:absolute;
+  left:13px;
+  top:26px;
+  width:54px;
+  height:35px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u379 {
+  position:absolute;
+  left:145px;
+  top:69px;
+  width:67px;
+  height:37px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u380 {
+  position:absolute;
+  left:68px;
+  top:71px;
+  width:67px;
+  height:37px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u381 {
+  position:absolute;
+  left:222px;
+  top:69px;
+  width:67px;
+  height:37px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u382 {
+  position:absolute;
+  left:13px;
+  top:716px;
+  width:362px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }

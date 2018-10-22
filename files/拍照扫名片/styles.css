@@ -34,3 +34,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u160 {
+  position:absolute;
+  left:135px;
+  top:551px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u161 {
+  position:absolute;
+  left:305px;
+  top:561px;
+  width:62px;
+  height:90px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
